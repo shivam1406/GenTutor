@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+openai
+pydantic
+pdfplumber
+python-dotenv
+langchain
+tiktoken
+pypdf
+PyPDF2
+langchain-community
+pinecone-client==2.2.4
+pinecone
+langchain
+langchain-openai
+

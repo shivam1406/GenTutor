@@ -1,0 +1,10 @@
+🧠 GenTutor – A Personalized Generative AI Teaching Assistant
+________________________________________
+📌 Abstract
+The rapid evolution of Generative AI (GenAI) and large language models (LLMs) has opened transformative opportunities in education. GenTutor is a next-generation AI-powered teaching assistant that leverages cutting-edge GenAI capabilities to deliver personalized, adaptive, and engaging learning experiences tailored to individual students.
+This system harnesses the power of GPT-4, LangChain, and Whisper to intelligently generate study material, explain complex topics conversationally, and simulate real-time tutoring through natural language and speech. The platform allows users to upload documents (e.g., lecture slides, PDFs), which are parsed and summarized into structured notes, flashcards, and comprehension quizzes using LLMs. Students can interact with the AI tutor through voice or text, receiving context-aware, multi-level explanations—from beginner-friendly ("Explain Like I'm 5") to expert mode.
+GenTutor also features a custom quiz generator that creates personalized assessments based on the learner's pace and performance, and a learning dashboard that visualizes progress, topic coverage, and weak areas. The system supports multilingual interaction, voice-based question-answering, and can be extended with educational memes, gamified learning, or Chrome extensions for real-time support.
+Built with a scalable full-stack architecture—React (frontend), FastAPI/Flask (backend), and AWS/Firebase (deployment)—GenTutor demonstrates deep integration of GenAI, cloud computing, full-stack development, and educational UX. This project exemplifies the practical application of LLM chaining, RAG (retrieval augmented generation), and multi-modal interfaces, aligning with the future of Big Tech’s vision for AI in education.
+________________________________________
+✅ Keywords:
+Generative AI, GPT-4, LangChain, Whisper, Personalized Learning, EdTech, AI Tutor, NLP, Full-Stack AI System, Retrieval-Augmented Generation (RAG)
